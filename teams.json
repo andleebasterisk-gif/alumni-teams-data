@@ -1,0 +1,122 @@
+[
+  {
+    "image": 'assets/images/alabama.png',
+    "text": "Alabama Crimson Tide",
+    "color": 0xff9d2235
+  },
+  {
+    "image": 'assets/images/app_state.png',
+    "text": "App State Mountaineers",
+    "color": 0xffffcc00
+  },
+  {
+    "image": 'assets/images/arkansas.png',
+    "text": "Arkansas Razorbacks",
+    "color": 0xff9d2235
+  },
+  {
+    "image": 'assets/images/auburn_tigers.png',
+    "text": "Auburn Tigers",
+    "color": 0xff0e213f
+  },
+  {
+    "image": 'assets/images/clemson_tigers.png',
+    "text": "Clemson Tigers",
+    "color": 0xffED7421
+  },
+  {
+    "image": 'assets/images/ETSU_buccaneers.png',
+    "text": "ETSU Buccaneers",
+    "color": 0xff051d43
+  },
+  {
+    "image": 'assets/images/florida_gators.png',
+    "text": "Florida Gators",
+    "color": 0xff0a2f88
+  },
+  {
+    "image": 'assets/images/florida_state_seminoles.png',
+    "text": "Florida State Seminoles",
+    "color": 0xff7b2f3c
+  },
+  {
+    "image": 'assets/images/georgia_bulldogs.png',
+    "text": "Georgia Bulldogs",
+    "color": 0xffC30E2D
+  },
+  {
+    "image": 'assets/images/Indiana-Hoosiers.png',
+    "text": "Indiana Hoosiers",
+    "color": 0xff88192D
+  },
+  {
+    "image": 'assets/images/kentucky_wildcats.png',
+    "text": "Kentucky Wildcats",
+    "color": 0xff0033a0
+  },
+  {
+    "image": 'assets/images/LSU_tigers.png',
+    "text": "LSU Tigers",
+    "color": 0xff5b2a83
+  },
+  {
+    "image": 'assets/images/Michigan_state_spartans.png',
+    "text": "Michigan State Spartans",
+    "color": 0xf163e35
+  },
+  // {
+  //   "image": 'assets/images/MTSU_blue_raiders.png',
+  //   "text": "MTSU Blue Raiders",
+  //   "color": 0xff015cb9
+  // },
+
+  {
+    "image": 'assets/images/mississippi_state_bulldogs.png',
+    "text": "Mississippi State Bulldogs",
+    "color": 0xff5d1725
+  },
+  {
+    "image": 'assets/images/nebraska_cornhuskers.png',
+    "text": "Nebraska Cornhuskers",
+    "color": 0xffE41C38
+  },
+  {
+    "image": 'assets/images/north_carolina_tar_heels.png',
+    "text": "North Carolina Tar Heels",
+    "color": 0xff659cc5
+  },
+  {
+    "image": 'assets/images/tennessee_volunteers.png',
+    "text": "Tennessee Volunteers",
+    "color": 0xffFF8200
+  },
+  {
+    "image": 'assets/images/ucf.png',
+    "text": "UCF Knights",
+    "color": 0xff231F20
+  },
+  {
+    "image": 'assets/images/virginia.png',
+    "text": "Virginia Cavaliers",
+    "color": 0xff13284B
+  },{
+    "image": 'assets/images/virginia_tech_hokies.png',
+    "text": "Virginia Tech Hokies",
+    "color": 0xff8a1a3e
+  },
+  {
+    "image": 'assets/images/west_virginia_mountaineers.png',
+    "text": "West Virginia Mountaineers",
+    "color": 0xff002855
+  },
+  {
+    "image": 'assets/images/western_kentucky_hilltoppers.png',
+    "text": "Western Kentucky Hilltoppers",
+    "color": 0xffB01E24
+  },
+  // {
+  //   "image": 'assets/images/US_military.png',
+  //   "text": "US Military",
+  //   "color": 0x61000000
+  // },
+]
